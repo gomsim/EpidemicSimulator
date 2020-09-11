@@ -7,10 +7,9 @@ The program is run using one of several predefined rulesets. The simulation can 
 
 When the simulation is done analysis can be performed on the collected data which in the end gives a PDF showcasing the data and evaluations done on it in ways that are interesting in terms of Self Organised Criticality. 
 
-Starting a new simulation:
 
-<img src="startDemo.mp4?raw=true" width="200px">
+Links to Gifs
 
-Finishing up a simulation:
+Starting a new simulation: https://j.gifs.com/QnMvX0.gif
 
-<img src="finishDemo.mp4?raw=true" width="200px">
+Finishing up a simulation: https://j.gifs.com/yojMOP.gif
