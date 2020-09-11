@@ -9,8 +9,8 @@ When the simulation is done analysis can be performed on the collected data whic
 
 Starting a new simulation:
 
-![Startup](https://j.gifs.com/QnMvX0.gif)
+![Startup](https://github.com/gomsim/EpidemicSimulator/blob/master/startDemo.mp4)
 
 Finishing up a simulation:
 
-![Finish](https://j.gifs.com/yojMOP.gif)
+![Finish](https://github.com/gomsim/EpidemicSimulator/blob/master/finishDemo.mp4)
